@@ -1,11 +1,11 @@
 # Hello World Self-Aware
 
-![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-9-green)
-![Maximum API Level](https://img.shields.io/badge/Target%20API%20Level-35-orange)
+[![Minimum API Level](https://img.shields.io/badge/Min%20API%20Level-9-green)](app/build.gradle.kts)
+[![Maximum API Level](https://img.shields.io/badge/Target%20API%20Level-35-orange)](app/build.gradle.kts)
 [![Releases](https://img.shields.io/github/release/Appliberated/HelloWorldSelfAware.svg)](https://github.com/Appliberated/HelloWorldSelfAware/releases/latest)
-![GitHub repo size](https://img.shields.io/github/repo-size/Appliberated/HelloWorldSelfAware)
-![License](https://img.shields.io/npm/l/express.svg)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Appliberated/HelloWorldSelfAware/total)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Appliberated/HelloWorldSelfAware)](https://github.com/Appliberated/HelloWorldSelfAware)
+[![License](https://img.shields.io/npm/l/express.svg)](LICENSE)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Appliberated/HelloWorldSelfAware/total)](https://github.com/Appliberated/HelloWorldSelfAware/releases)
 
 This is a small 121 KB Hello World app that lets the Android device introduce itself by "name" (serial number), Android version and API Level.
  
@@ -48,7 +48,7 @@ This direct-to-the-SDK approach is the main reason the final `.apk` is only 121 
 Thank you for contributing! Hello World Self-Aware is designed to be as simple as possible, but you can still help with:
 
 * testing and reporting bugs
-* creating a nice Android app icon to replace the [current one](https://github.com/Appliberated/HelloWorldSelfAware/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+* creating a nice Android app icon to replace the [current one](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## Support my work
 
@@ -62,4 +62,4 @@ Hello World Self-Aware is a free app, and I enjoy creating and sharing learning 
 
 ## License
 
-Hello World Self-Aware is released under the [MIT License](https://github.com/Appliberated/HelloWorldSelfAware/blob/main/LICENSE).
+Hello World Self-Aware is released under the [MIT License](LICENSE).
