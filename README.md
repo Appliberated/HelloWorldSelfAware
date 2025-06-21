@@ -17,13 +17,25 @@ This is a small 121 KB Hello World app that lets the Android device introduce it
 
 ## Download
 
+You can download the latest version from the [GitHub Releases page](https://github.com/Appliberated/HelloWorldSelfAware/releases/latest). This app is not available on the Google Play Store. You will download an `.apk` file that can be installed directly on your Android device.
+
 <a href="https://github.com/Appliberated/HelloWorldSelfAware/releases/latest">
   <img height="24px" alt="Static Badge" src="https://img.shields.io/badge/Download-from_GitHub_Releases-brightgreen?style=plastic&logo=github&color=%23181717">
 </a>
 
-## Building
+## Building from Source
 
-To build and run the app, clone this project, open it as an existing project in Android Studio, and click Run.
+If you'd like to build the app yourself:
+
+1.  Clone the repository: `git clone https://github.com/Appliberated/HelloWorldSelfAware.git`
+
+2.  Open the project in Android Studio.
+
+3.  Let Gradle sync the project.
+
+4.  Click `Run 'app'`.
+
+The project is configured to work with a minimum API level of 9 (Android 2.3 Gingerbread).
 
 ## Contributing
 
