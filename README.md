@@ -39,7 +39,7 @@ The project is configured to work with a minimum API level of 9 (Android 2.3 Gin
 
 ## Technical Notes
 
-This project is intentionally kept simple as a learning example. It is written in Java and uses the classic, plain Android SDK (`android.app.Activity`, `android.widget.TextView`, etc.) without any modern `androidx` libraries or Jetpack Compose. In fact, the `dependencies` section in the build file is empty.
+This project is intentionally kept simple as a learning example. It is written in [Java](app/src/main/java/com/appliberated/helloworldselfaware/MainActivity.java) and uses the classic, plain Android SDK (`android.app.Activity`, `android.widget.TextView`, etc.) without any modern `androidx` libraries or Jetpack Compose. In fact, the `dependencies` section in the [build file](app/build.gradle.kts) is empty.
 
 This direct-to-the-SDK approach is the main reason the final `.apk` is only 121 KB. While this is not the recommended architecture for complex, modern applications, it serves as a clear example of a minimal, dependency-free Android app. The original code was written in 2017 and has been maintained to run on the latest Android versions while preserving this original, lightweight approach.
 
@@ -56,7 +56,7 @@ Hello World Self-Aware is a free app, and I enjoy creating and sharing learning 
 
 <a href="https://www.tecdrop.com/apps/pro/"><img width="300" src="repo-assets/tecdrop-pro-apps.png" alt="Tecdrop Pro Apps" /></a>
 
-[Pitch Black Wallpaper Pro](https://www.tecdrop.com/pitchblackwallpaperpro/) | [RGB Color Wallpaper Pro](https://www.tecdrop.com/rgbcolorwallpaperpro/) |
+[Pitch Black Wallpaper Pro](https://play.google.com/store/apps/details?id=com.tecdrop.pitchblackwallpaperpro) | [RGB Color Wallpaper Pro](https://play.google.com/store/apps/details?id=com.tecdrop.rgbcolorwallpaperpro) |
 | :--- | :--- |
 | <li>Pitch black & dark wallpapers</li><li>AI-generated wallpapers</li><li>Enhances battery life</li><li>Reduces eyestrain</li> | <li>Set any color as wallpaper</li><li>Endless color options, built-in & custom</li><li>Reduce visual clutter</li><li>Enhanced device aesthetics</li> |
 
