@@ -17,7 +17,7 @@ This is a small 121 KB Hello World app that lets the Android device introduce it
 
 ## Download
 
-**[Download from GitHub Releases](https://github.com/Appliberated/HelloWorldSelfAware/releases/latest)**
+[![Download from GitHub Releases](https://img.shields.io/badge/Download-from_GitHub_Releases-brightgreen?style=plastic&logo=github&color=%23181717)](https://github.com/Appliberated/HelloWorldSelfAware/releases/latest)
 
 ## Building
 
