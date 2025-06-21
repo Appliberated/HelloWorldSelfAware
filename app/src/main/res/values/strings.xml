@@ -6,7 +6,7 @@
      See LICENSE file in the project root for full license information.
 -->
 <resources>
-    <string name="app_name">hello world self-aware</string>
+    <string name="app_name">Hello World Self-Aware</string>
     <string name="hello_message">hello world\ni\'m %1$s\na version %2$s android\nwith api level %3$d</string>
     <string name="copy_label">hello world</string>
     <string name="toast_copied">copied to clipboard</string>
