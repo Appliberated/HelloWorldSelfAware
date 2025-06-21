@@ -56,7 +56,7 @@ Hello World Self-Aware is a free app, and I enjoy creating and sharing learning 
 
 <a href="https://www.tecdrop.com/apps/pro/"><img width="300" src="repo-assets/tecdrop-pro-apps.png" alt="Tecdrop Pro Apps" /></a>
 
-[Pitch Black Wallpaper Pro](https://play.google.com/store/apps/details?id=com.tecdrop.pitchblackwallpaperpro) | [RGB Color Wallpaper Pro](https://play.google.com/store/apps/details?id=com.tecdrop.rgbcolorwallpaperpro) |
+[Pitch Black Wallpaper Pro](https://www.tecdrop.com/pitchblackwallpaperpro/) | [RGB Color Wallpaper Pro](https://www.tecdrop.com/rgbcolorwallpaperpro/) |
 | :--- | :--- |
 | <li>Pitch black & dark wallpapers</li><li>AI-generated wallpapers</li><li>Enhances battery life</li><li>Reduces eyestrain</li> | <li>Set any color as wallpaper</li><li>Endless color options, built-in & custom</li><li>Reduce visual clutter</li><li>Enhanced device aesthetics</li> |
 
