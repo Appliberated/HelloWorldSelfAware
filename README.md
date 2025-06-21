@@ -9,7 +9,7 @@
 
 This is a small 121 KB Hello World app that lets the Android device introduce itself by "name" (serial number), Android version and API Level.
  
-[Hello World apps](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) are usually not supposed to be useful. However, you may use this tiny app to quickly find out the Android version and API Level of the device. Because it's so tiny, doesn't have ads, and doesn't need any permissions, it's very easy to install even on older and less powerful hardware.
+[Hello World apps](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) are usually not supposed to be useful. However, you may use this tiny app to quickly find out the Android version and API Level of a device; all displayed information can be copied to the clipboard with a simple long-press. Because it's so tiny and doesn't need any permissions, it's very easy to install even on older and less powerful hardware.
 
 ## Screenshot
 
@@ -17,7 +17,7 @@ This is a small 121 KB Hello World app that lets the Android device introduce it
 
 ## Download
 
-You can download the latest version from the [GitHub Releases page](https://github.com/Appliberated/HelloWorldSelfAware/releases/latest). This app is not available on the Google Play Store. You will download an `.apk` file that can be installed directly on your Android device.
+You can download the latest version from the [GitHub Releases](https://github.com/Appliberated/HelloWorldSelfAware/releases/latest) page. This app is not available on the Google Play Store. You will download an `.apk` file that can be installed directly on your Android device.
 
 <a href="https://github.com/Appliberated/HelloWorldSelfAware/releases/latest">
   <img height="24px" alt="Static Badge" src="https://img.shields.io/badge/Download-from_GitHub_Releases-brightgreen?style=plastic&logo=github&color=%23181717">
@@ -36,6 +36,12 @@ If you'd like to build the app yourself:
 4.  Click `Run 'app'`.
 
 The project is configured to work with a minimum API level of 9 (Android 2.3 Gingerbread).
+
+## Technical Notes
+
+This project is intentionally kept simple as a learning example. It is written in Java and uses the classic, plain Android SDK (`android.app.Activity`, `android.widget.TextView`, etc.) without any modern `androidx` libraries or Jetpack Compose. In fact, the `dependencies` section in the build file is empty.
+
+This direct-to-the-SDK approach is the main reason the final `.apk` is only 121 KB. While this is not the recommended architecture for complex, modern applications, it serves as a clear example of a minimal, dependency-free Android app. The original code was written in 2017 and has been maintained to run on the latest Android versions while preserving this original, lightweight approach.
 
 ## Contributing
 
