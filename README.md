@@ -50,6 +50,16 @@ Thank you for contributing! Hello World Self-Aware is designed to be as simple a
 * testing and reporting bugs
 * creating a nice Android app icon to replace the [current one](https://github.com/Appliberated/HelloWorldSelfAware/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
+## Support my work
+
+Hello World Self-Aware is a free app, and I enjoy creating and sharing learning projects like this, along with other useful [free apps](https://www.appliberated.com/). If you'd like to support my work, consider checking out the following Pro applications:
+
+<a href="https://www.tecdrop.com/apps/pro/"><img width="300" src="repo-assets/tecdrop-pro-apps.png" alt="Tecdrop Pro Apps" /></a>
+
+[Pitch Black Wallpaper Pro](https://www.tecdrop.com/pitchblackwallpaperpro/) | [RGB Color Wallpaper Pro](https://www.tecdrop.com/rgbcolorwallpaperpro/) |
+| :--- | :--- |
+| <li>Pitch black & dark wallpapers</li><li>AI-generated wallpapers</li><li>Enhances battery life</li><li>Reduces eyestrain</li> | <li>Set any color as wallpaper</li><li>Endless color options, built-in & custom</li><li>Reduce visual clutter</li><li>Enhanced device aesthetics</li> |
+
 ## License
 
 Hello World Self-Aware is released under the [MIT License](https://github.com/Appliberated/HelloWorldSelfAware/blob/main/LICENSE).
